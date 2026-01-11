@@ -1,0 +1,22 @@
+{
+  "name": "epic-tech-ai-masterpiece",
+  "version": "1.0.0",
+  "description": "A visually and aurally stunning webpage that captivates and engages users.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "three": "^0.132.2",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {},
+  "author": "Epic Tech AI",
+  "license": "ISC"
+}
